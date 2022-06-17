@@ -73,6 +73,9 @@
       <td align="center"><a href="#questions-you-ask"><img src="images/you.png" width="75px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
       <td align="center"><a href="exercises/perl/README.md"><img src="images/perl.png" width="75px;" height="75px;" alt="perl"/><br /><b>Perl</b></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="exercises/nodejs/node.md"><img src="images/node.png" width="75px;" height="75px;" alt="NodeJS"/><br /><b>NodeJS</b></a></td>
+  </tr>
 </table>
 </center>
 <!-- markdownlint-enable -->
