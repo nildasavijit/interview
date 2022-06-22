@@ -61,3 +61,87 @@
         Yes Node is a single threaded application with event looping.
     </b>
 </details>
+
+<details>
+    <summary>First-Class Function</summary><br>
+    <b>
+        When functions in that language are treated like any other variable. 
+        For example, in such a language, a function can be assigned as a value to a variable, can be passed as an argument to other functions and can be returned by another function.
+    </b>
+</details>
+
+<details>
+    <summary>What is promisses</summary></br>
+    <b>
+        A promise is an object which represents the result of an asynchronous operation which is either resolved or rejected (with a reason).
+        const callMe=new Promise((resolve,reject)=>{
+        if(true){
+        resolve("Resolve");
+        }else{
+        reject("False");
+        }
+        })
+        callMe
+        .then(result=>{
+        console.log(result);
+        })
+        .catch(err=>{
+        console.log(err)
+        })
+    </b>
+</details>
+
+<details>
+    <summary>Shallow Copy</summary></br>
+    <b>
+        A shallow copy means that certain (sub-)values are still connected to the original variable. 
+    </b>
+</details>
+
+<details>
+    <summary>Deep Copy</summary></br>
+    <b>
+        A deep copy means that all of the values of the new variable are copied and disconnected from the original variable.
+    </b>
+</details>
+
+<details>
+    <summary>Deep Copy</summary></br>
+    <b>
+        “Self-Invoking” function is a type of function that is invoked or called automatically after its definition.
+        (function (parameters) {
+            //body of the function
+        })(arguments);
+    </b>
+</details>
+
+<details>
+    <summary>what is this keyword</summary></br>
+    <b>
+        “This” keyword refers to an object that is executing the current piece of code. It references the object that is executing the current function. If the function being referenced is a regular function, “this” references the global object.
+    </b>
+</details>
+
+<details>
+    <summary>What is function constructor</summary></br>
+    <b>
+        A constructor is a special function that creates and initializes an object instance of a class.
+    </b>
+</details>
+
+<details>
+    <summary>What is Closure</summary></br>
+    <b>
+        A closure gives you access to an outer function's scope from an inner function.
+        <br/>
+        function makeFunc() {
+            var name = 'Mozilla';
+            function displayName() {
+                alert(name);
+            }
+            return displayName;
+        }
+        var myFunc = makeFunc();
+        myFunc();
+    </b>
+</details>
