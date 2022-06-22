@@ -8,12 +8,12 @@
 <details>
     <summary>Why we use node js</summary><br>
     <b>
-        1. It is easy to learn Node.js.
-        2. The scalability offered.
-        3. The Mobile-friendly, Cross-platform, and Dev-Friendly nature of Node.js.
-        4. Node.js is light and fast.
-        5. The many hosting providers available.
-        6. Highly extensible
+        1. It is easy to learn Node.js.<br>
+        2. The scalability offered.<br>
+        3. The Mobile-friendly, Cross-platform, and Dev-Friendly nature of Node.js.<br>
+        4. Node.js is light and fast.<br>
+        5. The many hosting providers available.<br>
+        6. Highly extensible<br>
         7. Its caching ability
     </b>
 </details>
@@ -21,15 +21,15 @@
 <details>
     <summary>NodeJS 5 Packages</summary><br>
     <b>
-        1. Express.
-        2. Lodash.
-        3. Moment.js.
-        4. Axios.
-        5. Morgan.
-        6. MySQL.
-        7. Nodemon.
-        7. Nodemailer.
-        7. Molecular.
+        1. Express.<br>
+        2. Lodash.<br>
+        3. Moment.js.<br>
+        4. Axios.<br>
+        5. Morgan.<br>
+        6. MySQL.<br>
+        7. Nodemon.<br>
+        7. Nodemailer.<br>
+        7. Molecular.<br>
         7. Agenda.
     </b>
 </details>
